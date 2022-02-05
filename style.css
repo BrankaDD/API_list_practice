@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+td,
+th,
+tr {
+    border: 1px solid #131212;
+    font-size: 13px;
+}
+
